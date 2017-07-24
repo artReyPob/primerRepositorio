@@ -19,7 +19,8 @@ import com.consist.util.UtilString;
 import com.consist.util.UtilVectores;
 
 public class MainClass<E> {
-	private static String TEST_PROPS = "/media/creyes/HDD500GB/VM246/efactura/WEB-INF/classes/ConsistEnv_es_AR.properties";
+	private static String TEST_PROPS = "***---*******"
+			+ "/media/creyes/HDD500GB/VM246/efactura/WEB-INF/classes/ConsistEnv_es_AR.properties";
 
 	private static final Logger log = Logger.getLogger(MainClass.class) ;
 	private static ArrayList TUPLAS_RECHAZADAS= new ArrayList<String>();
@@ -27,6 +28,7 @@ public class MainClass<E> {
 	public static void main(String[] args) {
 		
 		System.out.println("prueba de merge de GIT, pero con algunos cambios");
+		System.out.println("encontramos un bugggg!!!!!!!!!");
 		
 		//args=new String[]{"/media/creyes/HDD500GB/Consist/NuevosDesarrollosEfactura/EmpresasEnroladas/ConsistEnv_es_AR.properties"};
 		
