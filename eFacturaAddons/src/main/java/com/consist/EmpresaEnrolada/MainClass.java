@@ -26,8 +26,7 @@ public class MainClass<E> {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("prueba de merge de GIT");
-		
+	
 		//args=new String[]{"/media/creyes/HDD500GB/Consist/NuevosDesarrollosEfactura/EmpresasEnroladas/ConsistEnv_es_AR.properties"};
 		
 		if (!UtilVectores.isEmptyVector(args)) TEST_PROPS=args[0];
@@ -45,7 +44,7 @@ public class MainClass<E> {
 		}
 		
 		log.info(MSG_USUARIO.MSG_BYEBYE);
-		System.out.println("PRUEBA 2 DE CORRECCION DE GIT");
+
 		System.exit(0);
 	}
 
