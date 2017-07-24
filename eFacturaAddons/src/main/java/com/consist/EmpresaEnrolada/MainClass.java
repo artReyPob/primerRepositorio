@@ -43,6 +43,7 @@ public class MainClass<E> {
 		}
 		
 		log.info(MSG_USUARIO.MSG_BYEBYE);
+		System.out.println("PRUEBA 2 DE CORRECCION DE GIT");
 		System.exit(0);
 	}
 
