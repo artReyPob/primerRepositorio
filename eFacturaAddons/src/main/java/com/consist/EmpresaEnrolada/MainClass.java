@@ -26,7 +26,7 @@ public class MainClass<E> {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("prueba de merge de GIT");
+		System.out.println("prueba de merge de GIT, pero con algunos cambios");
 		
 		//args=new String[]{"/media/creyes/HDD500GB/Consist/NuevosDesarrollosEfactura/EmpresasEnroladas/ConsistEnv_es_AR.properties"};
 		
