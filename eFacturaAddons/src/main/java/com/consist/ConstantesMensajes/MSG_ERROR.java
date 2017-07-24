@@ -32,10 +32,4 @@ public class MSG_ERROR {
 		return "Algo salio MAL al cargar el archivo de propiedad indicado en la ruta: "+pString + ".";
 	}
 	
-
-static public final String ERROR_GIT_PRUEBA(String pString){
-return "esto es para prueba de GIT";
-}
-	
-
 }
