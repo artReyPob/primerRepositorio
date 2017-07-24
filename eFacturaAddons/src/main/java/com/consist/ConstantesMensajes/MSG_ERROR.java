@@ -32,4 +32,4 @@ public class MSG_ERROR {
 		return "Algo salio MAL al cargar el archivo de propiedad indicado en la ruta: "+pString + ".";
 	}
 	
-}
+
