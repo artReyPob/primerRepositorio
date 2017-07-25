@@ -69,7 +69,8 @@ public class MainClass<E> {
 				}catch (Exception e1) {
 					TUPLAS_RECHAZADAS.add(stringEmEn);
 				}
-			}
+			} 
+			
 		}
 		return xLsEmpresasEnroladas;
 	}
